@@ -1,2 +1,2 @@
 # euwin-launcher
-menu options to launch euwin mod
+menu options to launch euwin mod based in batch script
