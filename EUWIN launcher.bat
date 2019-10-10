@@ -1,4 +1,6 @@
 @echo off
+rem Battlefield 2 Launcher
+rem Made by euwinpro
 
 title EUWIN launcher beta
 
